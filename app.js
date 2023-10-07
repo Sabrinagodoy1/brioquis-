@@ -22,7 +22,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-alert("Eu sei que você sempre quis dar o brioquinho :)")
+alert("He He He, Eu sei que você sempre quis dar o brioquinho :), Gu eu gosto muito de você, você sempre vai ser a melhor pessoa que eu já conheci, beijocas, espero que eu consiga melhorar nem que seja um tiquinho seu dia")
 }  
 
 function not() {
